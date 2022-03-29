@@ -1,0 +1,151 @@
+Name: 		Winter Bourne
+Age: 		27
+Rank 	Freshman
+------------------------------
+PHYS 221 3.0
+ASTR 100 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Michael Wang
+Age: 		26
+Rank 	Sophomore
+------------------------------
+PHYS 221 3.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Jessica Lemon
+Age: 		31
+Rank 	Senior
+------------------------------
+MATH 152 2.0
+ASTR 100 2.0
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Holden Flack
+Age: 		29
+Rank 	Freshman
+------------------------------
+MATH 152 3.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Drago Knute
+Age: 		28
+Rank 	Junior
+------------------------------
+PHYS 221 3.0
+MATH 152 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Michael Wang
+Age: 		26
+Rank 	Sophomore
+------------------------------
+PHYS 221 3.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Winter Bourne
+Age: 		27
+Rank 	Freshman
+------------------------------
+PHYS 221 3.0
+ASTR 100 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Michael Wang
+Age: 		31
+Rank 	Junior
+------------------------------
+CSC 142 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Carter West
+Age: 		32
+Rank 	Junior
+------------------------------
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Travis Conley
+Age: 		33
+Rank 	Junior
+------------------------------
+PHYS 221 2.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Luke Hogan
+Age: 		27
+Rank 	Senior
+------------------------------
+PHYS 221 3.0
+CSC 142 3.0
+MATH 152 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Martin Salamander
+Age: 		27
+Rank 	Senior
+------------------------------
+PHYS 221 2.0
+CSC 142 2.0
+ENG 110 1.0
+-------------------------------
+Cum.GPA: 	1.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Samuel Mitty
+Age: 		27
+Rank 	Junior
+------------------------------
+MATH 152 1.0
+CSC 142 1.0
+ENG 110 1.0
+-------------------------------
+Cum.GPA: 	1.0
+Dean List: 	false
+On Probation: 	true
+

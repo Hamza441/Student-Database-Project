@@ -1,0 +1,202 @@
+Name: 		Jessup Alcott
+Age: 		20
+Rank 	Senior
+------------------------------
+MATH 152 2.0
+CSC 142 2.0
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Jessup Alcott
+Age: 		20
+Rank 	Senior
+------------------------------
+MATH 152 2.0
+CSC 142 2.0
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Finnegan Bean
+Age: 		24
+Rank 	Freshman
+------------------------------
+PHYS 221 3.0
+CSC 142 2.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Finnegan Bean
+Age: 		24
+Rank 	Freshman
+------------------------------
+PHYS 221 3.0
+CSC 142 2.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Michelle Cordero
+Age: 		21
+Rank 	Sophomore
+------------------------------
+PHYS 221 3.0
+CSC 142 3.0
+MATH 152 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Wilbur Grant
+Age: 		21
+Rank 	Sophomore
+------------------------------
+PHYS 221 2.0
+CSC 142 1.0
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	1.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Wilbur Grant
+Age: 		21
+Rank 	Sophomore
+------------------------------
+PHYS 221 2.0
+CSC 142 1.0
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	1.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Joshua Hyun
+Age: 		18
+Rank 	Freshman
+------------------------------
+MATH 152 3.0
+ASTR 100 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Carter Jones
+Age: 		22
+Rank 	Freshman
+------------------------------
+PHYS 221 2.0
+CSC 142 2.0
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Michael Jones
+Age: 		24
+Rank 	Sophomore
+------------------------------
+PHYS 221 2.0
+CSC 142 3.0
+MATH 152 2.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Henry Lee
+Age: 		20
+Rank 	Sophomore
+------------------------------
+CSC 142 3.0
+PHYS 221 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Henry Li
+Age: 		22
+Rank 	Junior
+------------------------------
+MATH 152 3.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Walter Mitty
+Age: 		20
+Rank 	Sophomore
+------------------------------
+MATH 152 3.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Nevil Pier
+Age: 		19
+Rank 	Junior
+------------------------------
+PHYS 221 2.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Nevil Pier
+Age: 		19
+Rank 	Junior
+------------------------------
+PHYS 221 2.0
+CSC 142 3.0
+ENG 110 3.0
+-------------------------------
+Cum.GPA: 	2.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Michael Wang
+Age: 		24
+Rank 	Sophomore
+------------------------------
+ASTR 100 3.0
+CSC 142 3.0
+MATH 152 3.0
+-------------------------------
+Cum.GPA: 	3.0
+Dean List: 	false
+On Probation: 	true
+
+Name: 		Madison West
+Age: 		23
+Rank 	Freshman
+------------------------------
+PHYS 221 2.0
+CSC 142 1.0
+ENG 110 2.0
+-------------------------------
+Cum.GPA: 	1.0
+Dean List: 	false
+On Probation: 	true
+
